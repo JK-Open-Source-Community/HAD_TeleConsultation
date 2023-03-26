@@ -9,7 +9,6 @@ import java.util.Date;
 */
 
 public class DoctorDetails {
-
     private long doctorId;
 
     private String title;
